@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "node --test test/*.test.mjs",
-    "start": "node mcp.mjs"
+    "start": "node init && node mcp.mjs"
   },
   "dependencies": {
     "@modelcontextprotocol/client": "2.0.0",

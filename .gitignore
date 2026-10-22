@@ -6,8 +6,6 @@ dist/
 coverage/
 output/
 
-.env
-.env.*
 !.env.example
 
 *.log
@@ -24,3 +22,4 @@ store/screenshots/*
 !store/screenshots/02-skills-1280x800.png
 !store/screenshots/03-composer-1280x800.png
 store/promo-options/
+config.bat
